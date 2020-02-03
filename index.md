@@ -13,12 +13,9 @@ contact: ["facilitator@datascience.wisc.edu"]    # boxed, comma-separated list o
 etherpad:             # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
-  - venue: "Online"
-    address: "https://carpentries.zoom.us/j/FIXME"
-
-  - venue: "Euphoria University"
-    address: "Room A, 123 Forth Street, Blimingen, Euphoria"
-    latlng: "41.7901128,-87.6007318"
+  - venue: "Unveristy of Wisconsin-Madison"
+    address: "Orchard View Room, 330 N. Orchard St., Madison, WI. 53706"
+    latlng: "43.072811,-89.407547"
 
 ---
 
