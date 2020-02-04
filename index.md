@@ -14,7 +14,7 @@ etherpad:             # optional: URL for the workshop Etherpad if there is one
 eventbrite:  92929495623         # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
   - venue: "Unveristy of Wisconsin-Madison"
-    address: "<a href="https://map.wisc.edu/s/ybasn4bf">McArdle Building</a>, Room 1106, 447 Lorch St., Madison, WI. 53706"
+    address: "McArdle Building, Room 1106, 447 Lorch St., Madison, WI. 53706"
     latlng: "43.074900,-89.409650"
 
 ---
@@ -114,6 +114,8 @@ This is an online event. We will meet using the online videoconference software 
 {% else %}
 {% assign inperson = "true" %}
 {{ loc.address }} {% if loc.latlng %} Get directions with
+    <a href="https://map.wisc.edu/s/ybasn4bf">Campus Map<a/>
+    or
     <a href="//www.openstreetmap.org/?mlat={{loc.latlng | replace:',','&mlon='}}&zoom=16">OpenStreetMap</a>
     or
     <a href="//maps.google.com/maps?q={{loc.latlng}}">Google Maps</a>. {% endif %}
