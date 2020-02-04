@@ -66,7 +66,7 @@ locations:
   materials. You don't currently have to be an instructor or a
   teacher to attend this workshop, but you do need to be willing and
   committed to becoming one and to improving your teaching techniques.
-  <em> Apply to attend this event by filling in <a href="https://forms.gle/uqgzkeZMt6rCcFDc6">this form.</a> </em>
+  <strong> Apply to attend this event by filling in <a href="https://forms.gle/uqgzkeZMt6rCcFDc6">this form.</a> </stong>
 </p>
 
 <p>
