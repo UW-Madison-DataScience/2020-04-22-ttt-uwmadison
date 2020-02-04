@@ -11,7 +11,7 @@ instructor: ["Christina Koch", "Sarah Stevens"] # boxed, comma-separated list of
 #helper: ["FIXME"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 contact: ["facilitator@datascience.wisc.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 etherpad:             # optional: URL for the workshop Etherpad if there is one
-eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+eventbrite:  92929495623         # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
   - venue: "Unveristy of Wisconsin-Madison"
     address: "Orchard View Room, 330 N. Orchard St., Madison, WI. 53706"
@@ -66,6 +66,7 @@ locations:
   materials. You don't currently have to be an instructor or a
   teacher to attend this workshop, but you do need to be willing and
   committed to becoming one and to improving your teaching techniques.
+  <em> Apply to attend this event by filling in <a href="https://forms.gle/uqgzkeZMt6rCcFDc6">this form.</a> </em>
 </p>
 
 <p>
