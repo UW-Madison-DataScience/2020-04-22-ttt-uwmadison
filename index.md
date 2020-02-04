@@ -14,8 +14,8 @@ etherpad:             # optional: URL for the workshop Etherpad if there is one
 eventbrite:  92929495623         # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
   - venue: "Unveristy of Wisconsin-Madison"
-    address: "Orchard View Room, 330 N. Orchard St., Madison, WI. 53706"
-    latlng: "43.072811,-89.407547"
+    address: "<a href="https://map.wisc.edu/s/ybasn4bf">McArdle Building</a>, Room 1106, 447 Lorch St., Madison, WI. 53706"
+    latlng: "43.074900,-89.409650"
 
 ---
 
