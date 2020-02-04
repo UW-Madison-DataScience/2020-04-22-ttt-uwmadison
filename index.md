@@ -15,7 +15,7 @@ eventbrite:  92929495623         # optional: alphanumeric key for Eventbrite reg
 locations:
   - venue: "Unveristy of Wisconsin-Madison"
     address: "McArdle Building, Room 1106, 447 Lorch St., Madison, WI. 53706"
-    latlng: "43.074900,-89.409650"
+    latlng: "43.07444,-89.40907"
 
 ---
 
