@@ -3,8 +3,8 @@ layout: workshop      # DON'T CHANGE THIS.
 root: .               # DON'T CHANGE THIS EITHER.  (THANK YOU.)
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
-humandate: "12:30pm April 22 - 12pm April 24th, 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "22nd:12:30 pm - 5 pm, 23rd: 9 am - 5 pm, 24th: 9 am - 12 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+humandate: "1pm April 22 - 12pm April 24th, 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humantime: "22nd:1:00 pm - 5 pm, 23rd: 9 am - 5 pm, 24th: 9 am - 12 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2020-04-22      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2020-04-24        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Christina Koch", "Sarah Stevens"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
