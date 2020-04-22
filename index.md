@@ -13,9 +13,7 @@ contact: ["facilitator@datascience.wisc.edu"]    # boxed, comma-separated list o
 etherpad:             # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
-  - venue: "Unveristy of Wisconsin-Madison"
-    address: "McArdle Building, Room 1106, 447 Lorch St., Madison, WI. 53706"
-    latlng: "43.07444,-89.40907"
+  - venue: "Online"
 
 ---
 
